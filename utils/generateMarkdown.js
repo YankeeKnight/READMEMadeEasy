@@ -22,7 +22,7 @@ const renderLicenseSection = (license) =>
 Licensed under the ${license} license.`;
 
 // TODO: Create a function to generate markdown for README
-//title, description, table of contents, installation, usage, license, contributing, and tests
+//name, title, description, table of contents, installation, usage, license, credits, and tests
 const generateMarkdown = ({
   name, title, description, installation, usage, credits, tests, license
 }) =>
