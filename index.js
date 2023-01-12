@@ -63,7 +63,7 @@ const writeToFile = (fileName, data) =>
 // TODO: Create a function to initialize app
 const init = () => {
     inquirer.prompt(questions).then((answers) => {
-        writeToFile(`../${answers.readmeTitle}.md`, answers);
+        writeToFile(`./generatedReadMe/${answers.readmeTitle}.md`, answers);
     });
 };
 
