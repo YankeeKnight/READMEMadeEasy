@@ -4,7 +4,10 @@ Challenge 9 due 1-19-23
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-Takes user input through the Terminal using node to generate a professional README file that is exported to a folder called "generatedReadMe".  
+Takes user input through the Terminal using node to generate a professional README file that is exported to a folder called "generatedReadMe".
+
+## Screenshot
+![Screenshot of Process Flow](./assets/images/screenshot.png)
 
 ## Table of Contents
 1. [Installation](#installation)
