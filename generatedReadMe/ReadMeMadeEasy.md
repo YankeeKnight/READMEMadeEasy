@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-Creating a Professional ReadMe file for projects
+Creating a professional ReadMe file for projects
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -13,7 +13,7 @@ Creating a Professional ReadMe file for projects
 5. [License](#license)
 
 ## Installation
-It can be run from the Terminal.
+It can be run through the Terminal.
 
 ## Usage
 It will be used by coders who need a way to get a Professional ReadMe file, fast!

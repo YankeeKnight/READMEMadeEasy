@@ -4,7 +4,7 @@ Challenge 9 due 1-19-23
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-Takes user input through the Terminal using node to generate a professional README file.  
+Takes user input through the Terminal using node to generate a professional README file that is exported to a folder called "generatedReadMe".  
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -23,7 +23,7 @@ Provides a quick and easy way to put in the info needed in your README file thro
 https://shields.io/ - Used for License badges.
 
 ## Tests
-[Video Walkthrough Link](https://drive.google.com/file/d/10vRllGvvoWO_KP7G9-SHShPWPab_Elpk/view?usp=share_link)
+[Video Walkthrough Link](https://drive.google.com/file/d/1TqdcqAZiYKoB1cH-H8rIOE5n2mF1a7xx/view?usp=share_link)
 
 ## License
 
